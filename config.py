@@ -1,3 +1,4 @@
+#Для корректной работы надо получить новый токен и не публиковать его в инете(например на гитхабе xD)
 TOKEN = 'ODc1MDU3MTYwMzY5ODkzNDU3.YRP-fA.xFLcsewn2jlHEj7n7A4ScOLOOMA'
 
 #Reactions from
